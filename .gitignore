@@ -33,3 +33,5 @@ migrations/
 
 # Local development files
 .DS_Store
+
+config.py
